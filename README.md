@@ -7,4 +7,4 @@
 * :dancers: I'd like to collaborate on side projects, particularly in data science, weather/climate, and economics.
 * :love_letter: You can reach me on LinkedIn [@jlro](https://www.linkedin.com/in/jlro/).
 * :smile: Pronouns: He/Him
-* :zap: In my free time, I enjoy traveling, gardening, building electronics, IoT, Solar Energy ...
+* :zap: In my free time, I enjoy traveling, gardening, building electronics, IoT, Solar Energy and all things crypto
